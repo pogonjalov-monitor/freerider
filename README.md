@@ -24,6 +24,8 @@ Python, OpenCV, HOG-SVM
 
 <b>Демо</b>
 
+Коэффициент безбилетника https://youtu.be/iVlpCsc6Z0s
+
 Прототип мобильного приложения: https://youtu.be/R44zDYTgtJs
 
 Реквизиты тестового пользователя: email: testuser@test.ru, пароль: testuser
