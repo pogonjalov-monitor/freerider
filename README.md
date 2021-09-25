@@ -22,7 +22,7 @@ LESS, SASS, PostCSS.
 
 <b>Демо</b>
 
-Демо сервиса доступно по адресу: http://demo.test
+Прототип мобильного приложения: https://youtu.be/R44zDYTgtJs
 
 Реквизиты тестового пользователя: email: testuser@test.ru, пароль: testuser
 
